@@ -85,7 +85,6 @@ include android::studio
 * `boxen`
 * `homebrew`
 * `stdlib`
-* `java`
 
 ## Environment
 
