@@ -14,6 +14,5 @@ class android::sdk {
 
   package { 'boxen/brews/android-sdk':
     ensure  => $android::config::sdk_version,
-    require => Class['java'],
   }
 }
